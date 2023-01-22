@@ -1,0 +1,33 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "cascadia code", "arial";
+}
+
+.bg {
+  background-image: url("img.jpg");
+  height: 500px;
+}
+h1 {
+  color: white;
+  padding-left: 60px;
+  padding-top: 20px;
+}
+#count-El {
+  padding-left: 110px;
+}
+
+button {
+  margin: 10px;
+  border-radius: 20px;
+  width: 110px;
+  height: 30px;
+  background-color: white;
+  font-weight: bold;
+  color: black;
+  font-size: larger;
+}
+#pre-entry{
+  padding: 15px;
+  color: white;
+}
